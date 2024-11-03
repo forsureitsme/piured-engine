@@ -1,6 +1,6 @@
 # ⚠️ ⚠️ ⚠️ DEPRECATED ⚠️ ⚠️ ⚠️
 
-This project is no longer maintained and is deprecated. A new version of it can be found at [piured's github page](https://github.com/piured).
+This project is no longer maintained and is deprecated. Future news about the project can be found at [piured's github page](https://github.com/piured).
 
 # PIURED: A Web-based Pump It Up Engine
 
